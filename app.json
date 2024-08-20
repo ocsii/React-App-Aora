@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "React-App-Aora",
-    "slug": "React-App-Aora",
+    "name": "Aora",
+    "slug": "aora", // url friendly name
+    "scheme": "aora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
